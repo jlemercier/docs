@@ -39,6 +39,7 @@ interface Doc {
     children_list: boolean;
     collaboration_auth: boolean;
     destroy: boolean;
+    duplicate: boolean;
     favorite: boolean;
     invite_owner: boolean;
     link_configuration: boolean;
