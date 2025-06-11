@@ -8,9 +8,14 @@ and this project adheres to
 
 ## [Unreleased]
 
-## Added
+### Added
 
-- ✨(frontend) add document duplication functionality
+- ✨(frontend) add document duplication feature
+- ✨(frontend) add customization for translations #857
+
+### Changed
+
+- 🧑‍💻(docker): add .next to .dockerignore #1055
 
 ## [3.3.0] - 2025-05-06
 
